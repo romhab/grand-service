@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-02-05 10:30">
+    <shop>
+        <name>Garant Shyna Test</name>
+        <company>Garant Shyna</company>
+        <currencies>
+            <currency id="UAH" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="999999">Тестова категорія (Прихована)</category>
+        </categories>
+        <offers>
+            <offer id="test_shyna_01" available="false">
+                <name>ТЕСТОВА ШИНА Michelin (НЕ ДЛЯ ПРОДАЖУ) №1</name>
+                <vendorCode>TEST-001</vendorCode>
+                <price>2500</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>999999</categoryId>
+                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
+                <vendor>Michelin</vendor>
+                <description><![CDATA[Це тестовий товар. Будь ласка, не замовляйте його. Перевірка синхронізації XML-фіда.]]></description>
+                <quantityInStock>0</quantityInStock>
+                <param name="Сезонність">Літо</param>
+                <param name="Діаметр">R15</param>
+            </offer>
+
+            <offer id="test_shyna_02" available="false">
+                <name>ТЕСТОВА ШИНА Bridgestone (НЕ ДЛЯ ПРОДАЖУ) №2</name>
+                <vendorCode>TEST-002</vendorCode>
+                <price>3200</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>999999</categoryId>
+                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
+                <vendor>Bridgestone</vendor>
+                <description><![CDATA[Тестова картка товару для перевірки відображення фото та характеристик.]]></description>
+                <quantityInStock>0</quantityInStock>
+                <param name="Сезонність">Зима</param>
+                <param name="Діаметр">R17</param>
+            </offer>
+
+            <offer id="test_shyna_03" available="false">
+                <name>ТЕСТОВА ШИНА Continental (НЕ ДЛЯ ПРОДАЖУ) №3</name>
+                <vendorCode>TEST-003</vendorCode>
+                <price>4100</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>999999</categoryId>
+                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
+                <vendor>Continental</vendor>
+                <description><![CDATA[Тестовий імпорт. Перевірка працездатності посилання XML.]]></description>
+                <quantityInStock>0</quantityInStock>
+                <param name="Сезонність">Всесезонна</param>
+                <param name="Діаметр">R16</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
