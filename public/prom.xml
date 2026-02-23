@@ -24,12 +24,14 @@
         <price>5413</price>
         <currencyId>UAH</currencyId>
         <categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
-        <picture>https://garant-shyna.shop/path-to-your-image.jpg</picture>
+        <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6379.jpg</picture>
         <vendor>Triangle</vendor>
         <vendorCode>461940</vendorCode>
         <name>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name>
         <name_ua>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name_ua>
-        <description_ua><![CDATA[Опис товару українською мовою. Наприклад: Всесезонна шина Triangle SeasonX Van TA702 забезпечує відмінне зчеплення.]]></description_ua>
+        <keywords_ua>літо, літні шини, triangle, купити шини 225/65 R16C, всесезонна гума на бус</keywords_ua>
+        <description>Характеристики та маркування: Тип шини: Всесезоні Виробник: TRIANGLE Модель:TA702 Радіус: R16С Ширина: 205 Висота: 65 Країна-виробник: CHINA Індекс швидкості: T Індекс навантаження: 107/105 Сезон: Всесезоні </description>
+        <quantity_in_stock>4</quantity_in_stock>
         <param name="Сезонність">all-season</param>
         <param name="Виробник">Triangle</param>
         <param name="Стан">Новий</param>
