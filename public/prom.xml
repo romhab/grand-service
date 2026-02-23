@@ -1,56 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-02-05 10:30">
-    <shop>
-        <name>Garant Shyna Test</name>
-        <company>Garant Shyna</company>
-        <currencies>
-            <currency id="UAH" rate="1"/>
-        </currencies>
-        <categories>
-            <category id="999999">Тестова категорія (Прихована)</category>
-        </categories>
-        <offers>
-            <offer id="test_shyna_01" available="false">
-                <name>ТЕСТОВА ШИНА Michelin (НЕ ДЛЯ ПРОДАЖУ) №1</name>
-                <vendorCode>TEST-001</vendorCode>
-                <price>2500</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>999999</categoryId>
-                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
-                <vendor>Michelin</vendor>
-                <description><![CDATA[Це тестовий товар. Будь ласка, не замовляйте його. Перевірка синхронізації XML-фіда.]]></description>
-                <quantityInStock>0</quantityInStock>
-                <param name="Сезонність">Літо</param>
-                <param name="Діаметр">R15</param>
-            </offer>
-
-            <offer id="test_shyna_02" available="false">
-                <name>ТЕСТОВА ШИНА Bridgestone (НЕ ДЛЯ ПРОДАЖУ) №2</name>
-                <vendorCode>TEST-002</vendorCode>
-                <price>3200</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>999999</categoryId>
-                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
-                <vendor>Bridgestone</vendor>
-                <description><![CDATA[Тестова картка товару для перевірки відображення фото та характеристик.]]></description>
-                <quantityInStock>0</quantityInStock>
-                <param name="Сезонність">Зима</param>
-                <param name="Діаметр">R17</param>
-            </offer>
-
-            <offer id="test_shyna_03" available="false">
-                <name>ТЕСТОВА ШИНА Continental (НЕ ДЛЯ ПРОДАЖУ) №3</name>
-                <vendorCode>TEST-003</vendorCode>
-                <price>4100</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>999999</categoryId>
-                <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6475.jpg</picture>
-                <vendor>Continental</vendor>
-                <description><![CDATA[Тестовий імпорт. Перевірка працездатності посилання XML.]]></description>
-                <quantityInStock>0</quantityInStock>
-                <param name="Сезонність">Всесезонна</param>
-                <param name="Діаметр">R16</param>
-            </offer>
-        </offers>
-    </shop>
+     <shop>
+    <name>Garant-Shyna Test</name>
+    <company>Garant-Shyna</company>
+    <url>https://garant-shyna.shop/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2c73db57-8cd9-4089-920f-d1e24e82da11">Мото</category>
+      <category id="9da93c72-dd1a-4cbf-a287-8bd9d3bbee51" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Enduro</category>
+      <category id="9d2620cf-de26-4dfc-94e3-9d325279a127" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Мотокрос</category>
+      <category id="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Нова</category>
+      <category id="7605b65c-6b52-4ec6-9ac0-368c4d0a6056" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Зима</category>
+      <category id="55406438-d5c1-428e-b19b-ddc6fd3e9987" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Літо</category>
+      <category id="64371529-a144-4b65-b3d3-0b03d26d7b8f">Наварка</category>
+      <category id="d6febaec-d52c-46af-8893-f6af64b1ebb8" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Зима</category>
+      <category id="f0021588-ab67-4965-8570-661c08f7dc3a" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Літо</category>
+    </categories>
+    <offers>
+      <offer id="00346d88-f019-419b-bcab-bea815567d9c" available="true">
+        <url>https://garant-shyna.shop/product/triangle-seasonx-van-ta702-195-70-r15c-104-102s</url>
+        <price>3413</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
+        <picture>https://garant-shyna.shop/path-to-your-image.jpg</picture>
+        <vendor>Triangle</vendor>
+        <vendorCode>461940</vendorCode>
+        <name>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name>
+        <name_ua>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name_ua>
+        <description_ua><![CDATA[Опис товару українською мовою. Наприклад: Всесезонна шина Triangle SeasonX Van TA702 забезпечує відмінне зчеплення.]]></description_ua>
+        <param name="Сезонність">all-season</param>
+        <param name="Виробник">Triangle</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">light-truck</param>
+        <param name="Ширина шини">195 мм</param>
+        <param name="Профіль (висота)">70</param>
+        <param name="Посадковий діаметр шини">15"</param>
+        <param name="Індекс навантаження">104/102</param>
+        <param name="Індекс швидкості">S</param>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
