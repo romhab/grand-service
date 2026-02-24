@@ -20,7 +20,6 @@
     </categories>
     <offers>
       <offer id="00346d88-f019-419b-bcab-bea815567d9c" available="true">
-        <url>https://garant-shyna.shop/product/triangle-seasonx-van-ta702-195-70-r15c-104-102s</url>
         <price>5413</price>
         <currencyId>UAH</currencyId>
         <categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
@@ -53,16 +52,17 @@
 
         <keywords_ua>літо, літні шини, triangle, купити шини 225/65 R16C, всесезонна гума на бус</keywords_ua>
         <country_of_origin>Китай</country_of_origin>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <param name="Сезонність">all-season</param>
         <param name="Виробник">Triangle</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">light-truck</param>
-        <param name="Ширина шини">195 мм</param>
-        <param name="Профіль (висота)">70</param>
-        <param name="Посадковий діаметр шини">15"</param>
         <param name="Індекс навантаження">104/102</param>
         <param name="Індекс швидкості">S</param>
+        <param name="Рік виробництва шини">2024</param>
+        <param name="Ширина шини">195 мм</param>
+        <param name="Профіль (висота)">70</param>
+        <param name="Діаметр шини">15"</param>
       </offer>
     </offers>
   </shop>
