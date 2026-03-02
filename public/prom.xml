@@ -1,69 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05 10:30">
-     <shop>
-    <name>Garant-Shyna Test</name>
-    <company>Garant-Shyna</company>
-    <url>https://garant-shyna.shop/</url>
-    <currencies>
-      <currency id="UAH" rate="1"/>
-    </currencies>
-    <categories>
-      <category id="2c73db57-8cd9-4089-920f-d1e24e82da11">Мото</category>
-      <category id="9da93c72-dd1a-4cbf-a287-8bd9d3bbee51" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Enduro</category>
-      <category id="9d2620cf-de26-4dfc-94e3-9d325279a127" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Мотокрос</category>
-      <category id="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Нова</category>
-      <category id="7605b65c-6b52-4ec6-9ac0-368c4d0a6056" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Зима</category>
-      <category id="55406438-d5c1-428e-b19b-ddc6fd3e9987" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Літо</category>
-      <category id="64371529-a144-4b65-b3d3-0b03d26d7b8f">Наварка</category>
-      <category id="d6febaec-d52c-46af-8893-f6af64b1ebb8" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Зима</category>
-      <category id="f0021588-ab67-4965-8570-661c08f7dc3a" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Літо</category>
-    </categories>
-    <offers>
-      <offer id="00346d88-f019-419b-bcab-bea815567d9c" available="true">
-        <price>5413</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
-        <picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/6379.jpg</picture>
-        <vendor>Triangle</vendor>
-        <vendorCode>461940</vendorCode>
-        <name>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name>
-        <name_ua>Triangle SeasonX Van TA702 195/70 R15C 104/102S</name_ua>
-        <description_ua>
-            <![CDATA[
-            <p><strong>Характеристики та маркування:</strong></p>
-            <ul>
-            <li>Тип шини: Всесезонна</li>
-            <li>Виробник: TRIANGLE</li>
-            <li>Модель: TA702</li>
-            <li>Радіус: R16С</li>
-            <li>Ширина: 205</li>
-            <li>Висота: 65</li>
-            <li>Країна-виробник: CHINA</li>
-            <li>Індекс швидкості: T</li>
-            <li>Індекс навантаження: 107/105</li>
-            <li>Сезон: Всесезонна</li>
-            </ul>
-            ]]>
-        </description_ua>
-
-        <regions>
-            <region>Львів</region>
-        </regions>
-
-        <keywords_ua>літо, літні шини, triangle, купити шини 225/65 R16C, всесезонна гума на бус</keywords_ua>
-        <country_of_origin>Китай</country_of_origin>
-        <quantity_in_stock>2</quantity_in_stock>
-        <param name="Сезонність">all-season</param>
-        <param name="Виробник">Triangle</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">light-truck</param>
-        <param name="Індекс навантаження">104/102</param>
-        <param name="Індекс швидкості">S</param>
-        <param name="Рік виробництва шини">2024</param>
-        <param name="Ширина шини">195 мм</param>
-        <param name="Профіль (висота)">70</param>
-        <param name="Діаметр шини">15"</param>
-      </offer>
-    </offers>
-  </shop>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2026-03-02 07:29:12">
+<shop>
+<name>Garant-Shyna Test</name>
+<company>Garant-Shyna</company>
+<url>https://garant-shyna.shop/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="2c73db57-8cd9-4089-920f-d1e24e82da11">Мото</category>
+<category id="9da93c72-dd1a-4cbf-a287-8bd9d3bbee51" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Enduro</category>
+<category id="9d2620cf-de26-4dfc-94e3-9d325279a127" parentId="2c73db57-8cd9-4089-920f-d1e24e82da11">Мотокрос</category>
+<category id="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Нова</category>
+<category id="aae363a8-e0b5-471c-aecf-664ebe3a10ce" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Всесезонна</category>
+<category id="7605b65c-6b52-4ec6-9ac0-368c4d0a6056" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Зима</category>
+<category id="55406438-d5c1-428e-b19b-ddc6fd3e9987" parentId="8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f">Літо</category>
+<category id="64371529-a144-4b65-b3d3-0b03d26d7b8f">Наварка</category>
+<category id="d6febaec-d52c-46af-8893-f6af64b1ebb8" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Зима</category>
+<category id="f0021588-ab67-4965-8570-661c08f7dc3a" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Літо</category>
+</categories>
+<offers>
+<offer id="7847f5b4-bf9b-483e-976d-e66bc5f1784d" available="true">
+<url>https://garant-shyna.shop/product/triangle-snow-lion-tr777-195-60-r14-86t</url>
+<name>Шини всесезонні Triangle Snow Lion TR777 195/60 R14 86T</name>
+<name_ua>Шини всесезонні Triangle Snow Lion TR777 195/60 R14 86T</name_ua>
+<price>3400</price>
+<currencyId>UAH</currencyId>
+<categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
+<picture>https://garant-images.ams3.digitaloceanspaces.com/stage/tires/triangle-snow-lion-tr777-195-60-r14-86t-3.jpg</picture>
+<picture>https://garant-images.ams3.digitaloceanspaces.com/stage/tires/triangle-snow-lion-tr777-195-60-r14-86t-2.jpg</picture>
+<picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/4613.jpg</picture>
+<vendor>Triangle</vendor>
+<vendorCode>334507</vendorCode>
+<quantity_in_stock>1</quantity_in_stock>
+<description_ua>
+<![CDATA[ <p><strong>Характеристики та маркування:</strong></p><ul><li>Тип шини: зимова</li><li>Виробник: TRIANGLE</li><li>Модель: Snow Lion TR777</li><li>Радіус: R14</li><li>Ширина: 195</li><li>Висота: 60</li><li>Країна-виробник: КИТАЙ</li><li>Індекс швидкості: T</li><li>Індекс навантаження: 86</li><li>Сезон: зимова</li></ul> ]]>
+</description_ua>
+<keywords_ua>зимова, зимова шини, зимова гума, шини 195/60 R14, шини 195 60 R14, 195/60R14, Triangle Snow Lion TR777, Triangle Snow Lion TR777 195/60 R14, Triangle 195/60 R14, купити Triangle Snow Lion TR777 195/60 R14, купити шини Triangle 195/60 R14, Triangle Snow Lion TR777 зимова, зимова шини Triangle, зимова шини 195/60 R14, Triangle Snow Lion TR777 ціна, Triangle 195/60 R14 ціна, гума Triangle 195/60 R14, шини Triangle Snow Lion TR777 доставка, шини Triangle Snow Lion TR777 в наявності</keywords_ua>
+<param name="Сезонність">зимова</param>
+<param name="Виробник">Triangle</param>
+<param name="Стан">Новий</param>
+<param name="Призначення">car</param>
+<param name="Ширина шини">195 мм</param>
+<param name="Профіль (висота)">60</param>
+<param name="Посадковий діаметр шини">14"</param>
+<param name="Індекс навантаження">86</param>
+<param name="Індекс швидкості">T</param>
+</offer>
+<offer id="b9ef2ea0-932b-47d2-972b-46c6dd9cea4f" available="true">
+<url>https://garant-shyna.shop/product/triangle-effexsport-th202-235-55-r18-104w-xl</url>
+<name>Шини всесезонні Triangle EffeXSport TH202 235/55 R18 104W XL</name>
+<name_ua>Шини всесезонні Triangle EffeXSport TH202 235/55 R18 104W XL</name_ua>
+<price>5033</price>
+<currencyId>UAH</currencyId>
+<categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
+<picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/13177.jpg</picture>
+<vendor>Triangle</vendor>
+<vendorCode>402894</vendorCode>
+<quantity_in_stock>2</quantity_in_stock>
+<description_ua>
+<![CDATA[ <p><strong>Характеристики та маркування:</strong></p><ul><li>Тип шини: літня</li><li>Виробник: TRIANGLE</li><li>Модель: EffeXSport TH202</li><li>Радіус: R18</li><li>Ширина: 235</li><li>Висота: 55</li><li>Країна-виробник: КИТАЙ</li><li>Індекс швидкості: W</li><li>Індекс навантаження: 104</li><li>Сезон: літня</li></ul> ]]>
+</description_ua>
+<keywords_ua>літня, літня шини, літня гума, шини 235/55 R18, шини 235 55 R18, 235/55R18, Triangle EffeXSport TH202, Triangle EffeXSport TH202 235/55 R18, Triangle 235/55 R18, купити Triangle EffeXSport TH202 235/55 R18, купити шини Triangle 235/55 R18, Triangle EffeXSport TH202 літня, літня шини Triangle, літня шини 235/55 R18, Triangle EffeXSport TH202 ціна, Triangle 235/55 R18 ціна, гума Triangle 235/55 R18, шини Triangle EffeXSport TH202 доставка, шини Triangle EffeXSport TH202 в наявності</keywords_ua>
+<param name="Сезонність">літня</param>
+<param name="Виробник">Triangle</param>
+<param name="Стан">Новий</param>
+<param name="Призначення">car</param>
+<param name="Ширина шини">235 мм</param>
+<param name="Профіль (висота)">55</param>
+<param name="Посадковий діаметр шини">18"</param>
+<param name="Індекс навантаження">104</param>
+<param name="Індекс швидкості">W</param>
+</offer>
+<offer id="ceeb5a40-b92a-4635-bb1e-1ce8eebb674f" available="true">
+<url>https://garant-shyna.shop/product/pirelli-ice-zero-asimmetrico-255-50-r20-109h-xl</url>
+<name>Шини всесезонні Pirelli Ice Zero Asimmetrico 255/50 R20 109H XL</name>
+<name_ua>Шини всесезонні Pirelli Ice Zero Asimmetrico 255/50 R20 109H XL</name_ua>
+<price>7900</price>
+<currencyId>UAH</currencyId>
+<categoryId>8ba90a6d-38b7-4cd2-a5d1-9ceef4913f0f</categoryId>
+<picture>https://gate-opt.tyreclub.com.ua/public/img/user/1684/tyre/16151.jpg</picture>
+<vendor>Pirelli</vendor>
+<vendorCode>461147</vendorCode>
+<quantity_in_stock>1</quantity_in_stock>
+<description_ua>
+<![CDATA[ <p><strong>Характеристики та маркування:</strong></p><ul><li>Тип шини: зимова</li><li>Виробник: PIRELLI</li><li>Модель: Ice Zero Asimmetrico</li><li>Радіус: R20</li><li>Ширина: 255</li><li>Висота: 50</li><li>Країна-виробник: КИТАЙ</li><li>Індекс швидкості: H</li><li>Індекс навантаження: 109</li><li>Сезон: зимова</li></ul> ]]>
+</description_ua>
+<keywords_ua>зимова, зимова шини, зимова гума, шини 255/50 R20, шини 255 50 R20, 255/50R20, Pirelli Ice Zero Asimmetrico, Pirelli Ice Zero Asimmetrico 255/50 R20, Pirelli 255/50 R20, купити Pirelli Ice Zero Asimmetrico 255/50 R20, купити шини Pirelli 255/50 R20, Pirelli Ice Zero Asimmetrico зимова, зимова шини Pirelli, зимова шини 255/50 R20, Pirelli Ice Zero Asimmetrico ціна, Pirelli 255/50 R20 ціна, гума Pirelli 255/50 R20, шини Pirelli Ice Zero Asimmetrico доставка, шини Pirelli Ice Zero Asimmetrico в наявності</keywords_ua>
+<param name="Сезонність">зимова</param>
+<param name="Виробник">Pirelli</param>
+<param name="Стан">Новий</param>
+<param name="Призначення">car</param>
+<param name="Ширина шини">255 мм</param>
+<param name="Профіль (висота)">50</param>
+<param name="Посадковий діаметр шини">20"</param>
+<param name="Індекс навантаження">109</param>
+<param name="Індекс швидкості">H</param>
+</offer>
+</offers>
+</shop>
 </yml_catalog>
