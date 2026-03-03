@@ -19,7 +19,7 @@
 <category id="f0021588-ab67-4965-8570-661c08f7dc3a" parentId="64371529-a144-4b65-b3d3-0b03d26d7b8f">Літо</category>
 </categories>
 <offers>
-<offer id="7847f5b4-bf9b-483e-976d-e66bc5f1784d" available="true">
+<offer id="7847f5b4-bf9b-483e-976d-e66bc5f17841" available="true">
 <url>https://garant-shyna.shop/product/triangle-snow-lion-tr777-195-60-r14-86t</url>
 <name>Шини всесезонні Triangle Snow Lion TR777 195/60 R14 86T</name>
 <name_ua>Шини всесезонні Triangle Snow Lion TR777 195/60 R14 86T</name_ua>
@@ -46,7 +46,7 @@
 <param name="Індекс навантаження">86</param>
 <param name="Індекс швидкості">T</param>
 </offer>
-<offer id="b9ef2ea0-932b-47d2-972b-46c6dd9cea4f" available="true">
+<offer id="b9ef2ea0-932b-47d2-972b-46c6dd9cea42" available="true">
 <url>https://garant-shyna.shop/product/triangle-effexsport-th202-235-55-r18-104w-xl</url>
 <name>Шини всесезонні Triangle EffeXSport TH202 235/55 R18 104W XL</name>
 <name_ua>Шини всесезонні Triangle EffeXSport TH202 235/55 R18 104W XL</name_ua>
@@ -71,7 +71,7 @@
 <param name="Індекс навантаження">104</param>
 <param name="Індекс швидкості">W</param>
 </offer>
-<offer id="ceeb5a40-b92a-4635-bb1e-1ce8eebb674f" available="true">
+<offer id="ceeb5a40-b92a-4635-bb1e-1ce8eebb6743" available="true">
 <url>https://garant-shyna.shop/product/pirelli-ice-zero-asimmetrico-255-50-r20-109h-xl</url>
 <name>Шини всесезонні Pirelli Ice Zero Asimmetrico 255/50 R20 109H XL</name>
 <name_ua>Шини всесезонні Pirelli Ice Zero Asimmetrico 255/50 R20 109H XL</name_ua>
